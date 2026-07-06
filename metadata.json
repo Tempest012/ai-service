@@ -1,0 +1,16 @@
+[
+  {
+    "character": "Reimu Hakurei",
+    "images": [
+      "reference_images/reimu_1.jpg",
+      "reference_images/reimu_2.jpg"
+    ]
+  },
+  {
+    "character": "Mario",
+    "images": [
+      "reference_images/mario_1.jpg",
+      "reference_images/mario_2.jpg"
+    ]
+  }
+]
