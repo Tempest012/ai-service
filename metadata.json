@@ -1,16 +1,67 @@
 [
   {
-    "character": "Reimu Hakurei",
+    "character": "Kirby",
     "images": [
-      "reference_images/reimu_1.jpg",
-      "reference_images/reimu_2.jpg"
+      "reference_images/Kirby/images (2).jpg",
+      "reference_images/Kirby/images (3).jpg",
+      "reference_images/Kirby/images (4).jpg",
+      "reference_images/Kirby/images.jpg",
+      "reference_images/Kirby/images.png",
+      "reference_images/Kirby/Kirby_Nintendo.png"
+    ]
+  },
+  {
+    "character": "Kratos",
+    "images": [
+      "reference_images/Kratos/Kratos_1.jpg",
+      "reference_images/Kratos/Kratos_2.jpg",
+      "reference_images/Kratos/Kratos_3.jpg"
+    ]
+  },
+  {
+    "character": "Link",
+    "images": [
+      "reference_images/Link/Link_1.png",
+      "reference_images/Link/Link_2.jpg",
+      "reference_images/Link/Link_3.jpg",
+      "reference_images/Link/Link_4.jpg",
+      "reference_images/Link/Link_5.jpg",
+      "reference_images/Link/Link_6.jpg"
     ]
   },
   {
     "character": "Mario",
     "images": [
-      "reference_images/mario_1.jpg",
-      "reference_images/mario_2.jpg"
+      "reference_images/Mario/800px-Mario_SSBU.png",
+      "reference_images/Mario/images.jpg",
+      "reference_images/Mario/Mario_1.jpg",
+      "reference_images/Mario/Mario_2.jpg"
+    ]
+  },
+  {
+    "character": "Pikachu",
+    "images": [
+      "reference_images/Pikachu/800px-Pikachu.png",
+      "reference_images/Pikachu/images (2).jpg",
+      "reference_images/Pikachu/images (3).jpg",
+      "reference_images/Pikachu/images.jpg",
+      "reference_images/Pikachu/images.png"
+    ]
+  },
+  {
+    "character": "Reimu Hakurei",
+    "images": [
+      "reference_images/Reimu Hakurei/images (2).jpg",
+      "reference_images/Reimu Hakurei/Reimu_1.jpg",
+      "reference_images/Reimu Hakurei/Reimu_2.jpg"
+    ]
+  },
+  {
+    "character": "Sonic",
+    "images": [
+      "reference_images/Sonic/Modern_Sonic.png",
+      "reference_images/Sonic/Sonic_1.jpg",
+      "reference_images/Sonic/Sonic_2.jpg"
     ]
   }
 ]
